@@ -10,7 +10,7 @@
 
 ## Description
 
-Introducing a CLI-based Typing Game **KEY CASCADE** that offers an engaging experience. Developed in C using built-in libraries and the windows.h library for handling console input and output. This game is exclusively playable on Windows OS.
+Introducing a CLI-based Typing Game **KEY CASCADE** that offers an engaging experience. Developed in C using built-in libraries and the windows.h library for moving cursor position as well as changing text color. This game is exclusively playable on Windows OS.
 
 <p align="center">
 <img width="661" alt="pf1" src="https://github.com/shubairHyder/Key-Cascade/assets/167424904/8d2706de-803b-46a9-b00a-e80253aae2ec">
