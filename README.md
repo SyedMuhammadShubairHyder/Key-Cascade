@@ -58,6 +58,7 @@ The Typing Game challenges players to type words that appear on the screen befor
 - [Shubair Hyder](https://github.com/shubairHyder)
 - Shah Anas Khan
 - Abuzar Ali
+
 Feel free to contribute or give suggestions.
 
 Enjoy the game and happy typing!
